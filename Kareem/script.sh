@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 # Function to download reference genome
